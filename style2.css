@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    height: 120px;
+    background-color: coral;
+}
+
+img {
+   margin: 1% 1% auto;
+}
+li {
+    position: relative;
+    bottom: 30px;
+    left: 50%;
+    display: inline;
+    padding: 50px;
+
+}
+.dod{
+    background-color: rgb(39, 41, 161);
+    position: relative;
+    left: 90%;
+    bottom: 100% ;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.dodi {
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    bottom: 100% ;
+    left: 78%;
+    background-color: rgb(245, 40, 40);
+
+
+}
+
+
+body{
+    background-color: crimson;
+}
